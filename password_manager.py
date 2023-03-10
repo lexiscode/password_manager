@@ -9,7 +9,7 @@ window = Tk()
 window.title("Password Manager")
 window.config(padx=50, pady=50)
 
-
+# The image used https://drive.google.com/file/d/12EFnmf-piegeBTb86-BfCXAStqogTvqd/view?usp=sharing
 ######################################
 def generate_password():
     letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
